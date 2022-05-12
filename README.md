@@ -1,1 +1,3 @@
 # mod
+## A minecraft mod made by Jordan, Ronnie, and Kyomade.
+In this mod you will be able to...
